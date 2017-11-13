@@ -1,0 +1,28 @@
+p {
+    font-family: Tahoma;
+    font-size: 14px;
+    text-indent: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.colortext {
+    color: red;
+    font-weight: 800;
+}
+.color-text {
+    color: red;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+.important {
+    color: blue;
+    font-weight: 800;
+}
+.important2 {
+    font-weight: 800;
+}
+.italic {
+    font-style: italic;
+}
